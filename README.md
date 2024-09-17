@@ -1,7 +1,7 @@
 # Computer Statistics
 
-Welcome to the Computer Statistics repository! T
-his repository contains a variety of Jupyter notebooks covering key concepts in statistics, data analysis, and machine learning. 
+Welcome to the Computer Statistics repository! 
+This repository contains a variety of Jupyter notebooks covering key concepts in statistics, data analysis, and machine learning. 
 The notebooks utilize Python libraries to demonstrate statistical methods and provide visualizations, making it a valuable resource for learners and practitioners alike.
 
 ## Descriptive Statistics and Visualizations
